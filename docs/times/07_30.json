@@ -1,6 +1,15 @@
 [
   {
     "time": "07:30",
+    "quote_first": "The scene was Mr. Cruncher’s private lodging in Hanging-sword-alley, Whitefriars: the time, ",
+    "quote_time_case": "half-past seven",
+    "quote_last": " of the clock on a windy March morning, Anno Domini seventeen hundred and eighty. (Mr. Cruncher himself always spoke of the year of our Lord as Anna Dominoes: apparently under the impression that the Christian era dated from the invention of a popular game, by a lady who had bestowed her name upon it.)",
+    "title": "A Tale of Two Cities",
+    "author": "Charles Dickens",
+    "sfw": "yes"
+  },
+  {
+    "time": "07:30",
     "quote_first": "About ",
     "quote_time_case": "half-past seven",
     "quote_last": " I woke, and opened my window on a fine sunshiny day. The clock had struck eight, and I was just going out to chain up the dogs again, when I heard a sudden whisking of petticoats on the stairs behind me.",
