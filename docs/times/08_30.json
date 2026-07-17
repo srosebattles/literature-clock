@@ -109,15 +109,6 @@
   },
   {
     "time": "08:30",
-    "quote_first": "The lecture was to be given tomorrow, and it was now almost ",
-    "quote_time_case": "eight-thirty",
-    "quote_last": ".",
-    "title": "A Confederacy of Dunces",
-    "author": "John Kennedy Toole",
-    "sfw": "yes"
-  },
-  {
-    "time": "08:30",
     "quote_first": "When he woke, at ",
     "quote_time_case": "eight-thirty",
     "quote_last": ", he was alone in the bedroom. He put on his dressing gown and put in his hearing aid and went into the living room.",
@@ -141,6 +132,15 @@
     "quote_last": ", read the accumulated papers, and voided a small scream. All right, all right, he thought. There is no actual hurry, as such. We can change it back any time we like. That’s what time travel means.",
     "title": "Darwin's Watch",
     "author": "Terry Pratchett",
+    "sfw": "yes"
+  },
+  {
+    "time": "08:30",
+    "quote_first": "At about ",
+    "quote_time_case": "8:30",
+    "quote_last": ", Joe walked over to the parsonage for the keys and retrieved his bike from the shed. Both Rich and the minister, who was still on crutches, seemed glad to see him.",
+    "title": "Mistaken Identity",
+    "author": "Josh McDowell and Ed Stewart",
     "sfw": "yes"
   }
 ]
