@@ -55,15 +55,6 @@
   },
   {
     "time": "20:00",
-    "quote_first": "I have been drunk just twice in my life, and the second time was that afternoon; so everything that happened has a dim, hazy cast over it, although until after ",
-    "quote_time_case": "eight o’clock",
-    "quote_last": " the apartment was full of cheerful sun.",
-    "title": "The Great Gatsby",
-    "author": "F. Scott Fitzgerald",
-    "sfw": "yes"
-  },
-  {
-    "time": "20:00",
     "quote_first": "Again at ",
     "quote_time_case": "eight o’clock",
     "quote_last": ", when the dark lanes of the Forties were lined five deep with throbbing taxicabs, bound for the theatre district, I felt a sinking in my heart. Forms leaned together in the taxis as they waited, and voices sang, and there was laughter from unheard jokes, and lighted cigarettes outlined unintelligible 70 gestures inside.",
@@ -210,7 +201,7 @@
     "time": "20:00",
     "quote_first": "That day he forgot to go to dinner; he noticed the fact at ",
     "quote_time_case": "eight in the evening",
-    "quote_last": ", and as it was too late to go to the Rue St. Jaques, he ate a lump of bread.",
+    "quote_last": ", and as it was too late to go to the Rue St. Jacques, he ate a lump of bread.",
     "title": "Les Misérables",
     "author": "Victor Hugo",
     "sfw": "yes"

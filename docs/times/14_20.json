@@ -39,9 +39,18 @@
     "time": "14:20",
     "quote_first": "",
     "quote_time_case": "Twenty minutes after two",
-    "quote_last": ", on my way to San Diego, listening to some weird, cacophanous music; no melodic line, no content.",
+    "quote_last": ", on my way to San Diego, listening to some weird, cacophonous music; no melodic line, no content.",
     "title": "Somewhere in Time (Bid Time Return)",
     "author": "Richard Matheson",
+    "sfw": "yes"
+  },
+  {
+    "time": "14:20",
+    "quote_first": "The having originated a precaution which was already in course of execution, was a great relief to Miss Pross. The necessity of composing her appearance so that it should attract no special notice in the streets, was another relief. She looked at her watch, and it was ",
+    "quote_time_case": "twenty minutes past two",
+    "quote_last": ". She had no time to lose, but must get ready at once.",
+    "title": "A Tale of Two Cities",
+    "author": "Charles Dickens",
     "sfw": "yes"
   }
 ]
